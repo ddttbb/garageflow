@@ -83,5 +83,16 @@ When you run GarageFlow for the first time, it will detect that no administrator
 ## 🗃️ Database
 
 GarageFlow uses a local SQLite database to store all your data. The database file, `garageflow.db`, along with any uploaded images for vehicles (`/images`) and customers (`/photos`), is automatically created in your user's Documents folder:
+## 📜 License
+
+[![License: GarageFlow Custom Copyleft](https://img.shields.io/badge/License-GarageFlow%20Custom%20Copyleft-blue.svg?style=flat-square)](#license)
+
+This project is licensed under the **GarageFlow Custom Copyleft License**:
+
+- Credit must appear: **Kıvanç Bulut / mkb arch studio**  
+- The license must be included in all copies or substantial portions of the software  
+- If distributed, the full project must be open-source under the same terms  
+
+For full details, see the [LICENSE](./License) file.
 
 `~/Documents/GarageFlow/`
