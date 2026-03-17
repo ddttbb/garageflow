@@ -1,50 +1,65 @@
-
-Copyright (c) 2026 Kıvanç Bulut / mkb arch studio
+GarageFlow Custom Copyleft License
+© 2026 Kıvanç Bulut / mkb arch studio
 
 ------------------------------------------------------------------
 ENGLISH VERSION
 ------------------------------------------------------------------
 
-This software is licensed under the Apache License 2.0 with additional attribution requirements.
+This software is licensed under a Custom Copyleft License with Mandatory Attribution and Open-Source Redistribution requirements.
 
-Permission is granted to use, modify, and distribute this software, provided that the following conditions are met:
+1. **Usage Rights**
+   - You may use this software freely for personal, educational, or commercial purposes.
 
-1. Attribution Requirement:
-   Any use, modification, or distribution of this software must include clear and visible credit to:
-   "Kıvanç Bulut / mkb arch studio"
+2. **Attribution Requirement**
+   - Any use, modification, or distribution must include visible credit to:
+     "Kıvanç Bulut / mkb arch studio"
+   - This credit must appear both:
+     - In the application interface (About page, footer, splash screen, or similar)
+     - In all distributed source code
 
-2. License Inclusion:
-   This license file must be included in all copies or substantial portions of the software.
+3. **Copyleft / Open-Source Requirement**
+   - If this software or any derivative works are distributed to third parties, the **entire project must be released as open-source under this same license**.
 
-3. UI Attribution:
-   The credit "Kıvanç Bulut / mkb arch studio" must be visibly displayed داخل the application interface
-   (such as in an About page, footer, splash screen, or similar location).
+4. **License File**
+   - This LICENSE file must be included in all copies or substantial portions of the software.
 
-4. No Removal:
-   The original author attribution may not be removed, altered, or hidden.
+5. **Modification and Derivatives**
+   - You may modify the software and create derivative works, but all derivatives must comply with this license.
 
-Failure to comply with these terms will result in termination of the license rights.
+6. **No Removal or Alteration**
+   - The original author attribution may not be removed, altered, or hidden.
+
+7. **Termination**
+   - Failure to comply with these terms terminates your license rights.
 
 ------------------------------------------------------------------
-TÜRKÇE VERSİYON
+TÜRKÇE VERSİON
 ------------------------------------------------------------------
 
-Bu yazılım, Apache License 2.0 temel alınarak ek atıf şartları ile lisanslanmıştır.
+Bu yazılım, Ek Zorunlu Atıf ve Açık Kaynak Dağıtım şartları ile Özel Copyleft Lisansı altında lisanslanmıştır.
 
-Bu yazılımın kullanımı, değiştirilmesi ve dağıtılması aşağıdaki şartlarla serbesttir:
+1. **Kullanım Hakları**
+   - Bu yazılımı kişisel, eğitim veya ticari amaçlarla özgürce kullanabilirsiniz.
 
-1. Atıf Zorunluluğu:
-   Bu yazılımın her türlü kullanımı, değiştirilmesi veya dağıtımında şu ibare açık ve görünür şekilde yer almalıdır:
-   "Kıvanç Bulut / mkb arch studio"
+2. **Atıf Zorunluluğu**
+   - Bu yazılımın her türlü kullanımı, değiştirilmesi veya dağıtımında şu ibare görünür olmalıdır:
+     "Kıvanç Bulut / mkb arch studio"
+   - Bu atıf **hem**:
+     - Uygulama arayüzünde (Hakkında sayfası, footer, açılış ekranı vb.)
+     - Tüm dağıtılan kaynak kodunda
+     yer almalıdır.
 
-2. Lisans Dosyası:
-   Bu lisans dosyası, yazılımın tüm kopyalarıyla birlikte bulunmak zorundadır.
+3. **Copyleft / Açık Kaynak Zorunluluğu**
+   - Yazılım veya türevleri üçüncü taraflara dağıtılırsa, **tüm proje aynı lisans şartları altında açık kaynak olarak yayınlanmalıdır**.
 
-3. Arayüzde Gösterim:
-   "Kıvanç Bulut / mkb arch studio" ibaresi uygulama arayüzünde görünür şekilde yer almalıdır
-   (Hakkında sayfası, footer, açılış ekranı vb.).
+4. **Lisans Dosyası**
+   - Bu LICENSE dosyası tüm kopyalarda veya önemli bölümlerde bulunmalıdır.
 
-4. Kaldırılamaz:
-   Orijinal geliştirici bilgileri silinemez, değiştirilemez veya gizlenemez.
+5. **Değişiklik ve Türevler**
+   - Yazılımı değiştirebilir ve türev çalışmalar oluşturabilirsiniz, ancak tüm türevler bu lisans şartlarına uymak zorundadır.
 
-Bu şartlara uyulmaması durumunda lisans hakları geçersiz sayılır.
+6. **Kaldırılamaz veya Değiştirilemez**
+   - Orijinal geliştirici bilgileri silinemez, değiştirilemez veya gizlenemez.
+
+7. **Lisansın Geçersizliği**
+   - Bu şartlara uyulmaması durumunda lisans hakları sona erer.
